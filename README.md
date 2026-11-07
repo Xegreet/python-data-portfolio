@@ -25,6 +25,7 @@ Durante los próximos **3 meses** construiré una base sólida en Python para tr
 - Trabajar con Git y GitHub.
 - Aprender NumPy y pandas.
 - Completar un análisis exploratorio de un conjunto de datos público.
+- [x] Publicar un primer proyecto: [Triqui en Python](proyectos/triqui/README.md).
 
 ### Mes 2 — Visualización y SQL
 
@@ -42,11 +43,12 @@ Durante los próximos **3 meses** construiré una base sólida en Python para tr
 
 ## Proyectos
 
-1. **Análisis exploratorio de ventas** — Limpiar datos de ventas, identificar productos y períodos destacados, y presentar recomendaciones.
-2. **Dashboard de indicadores públicos** — Obtener datos de una API y construir visualizaciones para seguir indicadores relevantes.
-3. **Análisis de precios y tendencias** — Estudiar la evolución de precios a lo largo del tiempo usando pandas y series temporales básicas.
-4. **Proyecto SQL de negocio** — Diseñar consultas sobre una base de datos para responder preguntas concretas y documentar los resultados.
-5. **Proyecto final: historia con datos** — Combinar varias fuentes, realizar un análisis completo y comunicar una conclusión mediante un informe claro.
+1. **[Triqui en Python](proyectos/triqui/README.md)** — Juego para dos jugadores en la terminal. Primer proyecto del Mes 1.
+2. **Análisis exploratorio de ventas** — Limpiar datos de ventas, identificar productos y períodos destacados, y presentar recomendaciones.
+3. **Dashboard de indicadores públicos** — Obtener datos de una API y construir visualizaciones para seguir indicadores relevantes.
+4. **Análisis de precios y tendencias** — Estudiar la evolución de precios a lo largo del tiempo usando pandas y series temporales básicas.
+5. **Proyecto SQL de negocio** — Diseñar consultas sobre una base de datos para responder preguntas concretas y documentar los resultados.
+6. **Proyecto final: historia con datos** — Combinar varias fuentes, realizar un análisis completo y comunicar una conclusión mediante un informe claro.
 
 ## Tecnologías
 
@@ -54,6 +56,6 @@ Durante los próximos **3 meses** construiré una base sólida en Python para tr
 
 ## Progreso
 
-- [ ] Mes 1: fundamentos y datos
+- [x] Mes 1: fundamentos y primer proyecto
 - [ ] Mes 2: visualización y SQL
 - [ ] Mes 3: portafolio y proyectos
